@@ -1,0 +1,11 @@
+{
+ "tasks": [
+  {
+   "id": 1,
+   "description": "Work on the manager dashboard",
+   "status": "done",
+   "createdAt": "2026-01-07T10:45:13.27835+01:00",
+   "updatedAt": "2026-01-07T10:59:36.15953+01:00"
+  }
+ ]
+}
