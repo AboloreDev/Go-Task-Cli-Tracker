@@ -5,6 +5,7 @@ A fast, lightweight Command-Line Task Tracker built with Golang, designed to dem
 This project supports full CRUD operations, task status management, and filtering — all backed by a local JSON store.
 
 🔗 Project Repository: https://github.com/AboloreDev/Go-Task-Cli-Tracker
+url: https://roadmap.sh/projects/task-tracker
 
 🚀 Features
 
